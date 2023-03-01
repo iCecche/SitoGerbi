@@ -1,0 +1,25 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "name" : "Omron C200H-ID212",
+            "price" : 200.5,
+            "img" : "/img/IMG_2569.PNG",
+            "disponibilità" : 10 
+        },
+        {
+            "id": 2,
+            "name" : "Omron Counter H7CN-XLMN",
+            "price" : 200.5,
+            "img" : "/img/IMG_2611.PNG",
+            "disponibilità" : 4 
+        },
+        {
+            "id": 3,
+            "name" : "Omron C200H-CT001-V1",
+            "price" : 200.5,
+            "img" : "/img/IMG_2569.PNG",
+            "disponibilità" : 15 
+        }
+    ]
+}
